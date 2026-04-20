@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136763257653",
+    "project_id": "champ-quizz",
+    "storage_bucket": "champ-quizz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136763257653:android:aa72e7b9d444f3cdacd27c",
+        "android_client_info": {
+          "package_name": "com.salmanmaredia.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9JHgRO1rtYYf2v1oMd3ZbxxUOw7w0bAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
